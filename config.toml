@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Prologue"
-baseurl = "http://example.org/"
+baseurl = "https://fvcproductions.github.io/my-website/"
 theme = "prologue"
 publishDir = "docs"
 
