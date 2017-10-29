@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Prologue"
-baseurl = "http://example.org/"
+baseurl = "http://noltron000.github.io/"
 theme = "prologue"
 publishDir = "docs"
 
