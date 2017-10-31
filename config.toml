@@ -41,27 +41,27 @@ relativeURLs = true
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Portfolio 1"
+  title = "My Girlfriend"
   alt = ""
   source = "img/frances.jpg"
-  url = "#"
+  url = "https://fvcproductions.com/"
 
 [[params.portfolio1]]
-  title = "Portfolio 2"
+  title = "Programming"
   alt = ""
   source = "img/code.jpg"
-  url = "#"
+  url = "https://github.com/noltron000"
 
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = "Portfolio 5"
+  title = "Snowboarding"
   alt = ""
   source = "img/winter.jpg"
   url = "#"
 
 [[params.portfolio2]]
-  title = "Portfolio 6"
+  title = "Tabletop Games"
   alt = ""
   source = "img/roleplay.jpg"
   url = "#"
@@ -69,19 +69,19 @@ relativeURLs = true
 # Portfolio column three
 
 [[params.portfolio3]]
-  title = "Portfolio 7"
+  title = "Smoothies"
   alt = ""
-  source = "img/nothing.jpg"
+  source = "img/smoothies.jpg"
   url = "#"
 
 [[params.portfolio3]]
-  title = "Portfolio 3"
+  title = "Computer Hardware"
   alt = ""
   source = "img/hardware.jpg"
   url = "#"
 
 [[params.portfolio3]]
-  title = "Portfolio 4"
+  title = "Cats"
   alt = ""
   source = "img/cat.jpg"
   url = "#"
