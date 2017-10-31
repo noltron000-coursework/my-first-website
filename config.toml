@@ -43,39 +43,45 @@ relativeURLs = true
 [[params.portfolio1]]
   title = "Portfolio 1"
   alt = ""
-  source = "img/code.jpg"
+  source = "img/frances.jpg"
   url = "#"
 
 [[params.portfolio1]]
   title = "Portfolio 2"
   alt = ""
-  source = "img/cat.jpg"
+  source = "img/code.jpg"
   url = "#"
 
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = "Portfolio 3"
-  alt = ""
-  source = "img/frances.jpg"
-  url = "#"
-
-[[params.portfolio2]]
-  title = "Portfolio 4"
+  title = "Portfolio 5"
   alt = ""
   source = "img/winter.jpg"
   url = "#"
 
-# Portfolio column 3
+[[params.portfolio2]]
+  title = "Portfolio 6"
+  alt = ""
+  source = "img/roleplay.jpg"
+  url = "#"
+
+# Portfolio column three
 
 [[params.portfolio3]]
-  title = "Portfolio 5"
+  title = "Portfolio 7"
+  alt = ""
+  source = "img/nothing.jpg"
+  url = "#"
+
+[[params.portfolio3]]
+  title = "Portfolio 3"
   alt = ""
   source = "img/hardware.jpg"
   url = "#"
 
 [[params.portfolio3]]
-  title = "Portfolio 6"
+  title = "Portfolio 4"
   alt = ""
-  source = "img/roleplay.jpg"
+  source = "img/cat.jpg"
   url = "#"
