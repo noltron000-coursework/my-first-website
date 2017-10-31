@@ -9,7 +9,7 @@ relativeURLs = true
   name = "Nolan Kovacik"
   avatar = "https://avatars2.githubusercontent.com/u/19766927?s=460&v=4"
   image ="https://images.pexels.com/photos/52533/orange-fruit-vitamins-healthy-eating-52533.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
-  description = "Information Systems"
+  description = "Software Engineer"
   copyright = "©️ 2017"
   twitter = "noltron000"
 
@@ -43,13 +43,13 @@ relativeURLs = true
 [[params.portfolio1]]
   title = "Portfolio 1"
   alt = ""
-  source = "img/pic01.jpg"
+  source = "img/pic02.jpg"
   url = "#"
 
 [[params.portfolio1]]
   title = "Portfolio 2"
   alt = ""
-  source = "img/pic02.jpg"
+  source = "img/pic03.jpg"
   url = "#"
 
 # Portfolio column two
@@ -57,13 +57,13 @@ relativeURLs = true
 [[params.portfolio2]]
   title = "Portfolio 3"
   alt = ""
-  source = "img/pic03.jpg"
+  source = "img/pic04.jpg"
   url = "#"
 
 [[params.portfolio2]]
   title = "Portfolio 4"
   alt = ""
-  source = "img/pic04.jpg"
+  source = "img/pic05.jpg"
   url = "#"
 
 # Portfolio column 3
@@ -71,11 +71,11 @@ relativeURLs = true
 [[params.portfolio3]]
   title = "Portfolio 5"
   alt = ""
-  source = "img/pic05.jpg"
+  source = "img/pic06.jpg"
   url = "#"
 
 [[params.portfolio3]]
   title = "Portfolio 6"
   alt = ""
-  source = "img/pic06.jpg"
+  source = "img/pic07.jpg"
   url = "#"
