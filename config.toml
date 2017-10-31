@@ -9,7 +9,7 @@ relativeURLs = true
   name = "Nolan Kovacik"
   avatar = "https://avatars2.githubusercontent.com/u/19766927?s=460&v=4"
   image ="https://images.pexels.com/photos/52533/orange-fruit-vitamins-healthy-eating-52533.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
-  description = "Software Engineer"
+  description = "Information Systems"
   copyright = "©️ 2017"
   twitter = "noltron000"
 
@@ -41,7 +41,7 @@ relativeURLs = true
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "My Girlfriend"
+  title = "Frances Coronel"
   alt = ""
   source = "img/frances.jpg"
   url = "https://fvcproductions.com/"
@@ -72,7 +72,7 @@ relativeURLs = true
   title = "Smoothies"
   alt = ""
   source = "img/smoothies.jpg"
-  url = "#"
+  url = "http://pulpjuiceandsmoothie.com/"
 
 [[params.portfolio3]]
   title = "Computer Hardware"
