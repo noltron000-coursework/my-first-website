@@ -8,7 +8,7 @@ relativeURLs = true
 [params]
   name = "Nolan Kovacik"
   avatar = "https://avatars2.githubusercontent.com/u/19766927?s=460&v=4"
-  image ="https://images.pexels.com/photos/52533/orange-fruit-vitamins-healthy-eating-52533.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
+  image = "https://images.pexels.com/photos/52533/orange-fruit-vitamins-healthy-eating-52533.jpeg?h=350&dpr=2&auto=compress&cs=tinysrgb"
   description = "Information Systems"
   copyright = "2017"
   twitter = "noltron000"
@@ -18,15 +18,15 @@ relativeURLs = true
   icon = "twitter"
   link = "//twitter.com/noltron000"
 
-#--> [[params.social]]
-#-->   medium = "facebook"
-#-->   icon = "facebook"
-#-->   link = "facebook.com/noltron000"
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/noltron000"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "github.com/noltron000"
+  link = "https://github.com/noltron000"
 
 #--> [[params.social]]
 #-->   medium = "dribbble"
@@ -36,7 +36,7 @@ relativeURLs = true
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "noltron000@gmail.com"
+  link = "https://mail.google.com/mail/?view=cm&fs=1&to=nkovacik@kent.edu&su=&body=&cc=noltron000@gmail.com"
 
 # Portfolio column one
 
