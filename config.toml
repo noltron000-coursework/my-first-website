@@ -18,25 +18,25 @@ relativeURLs = true
   icon = "twitter"
   link = "//twitter.com/noltron000"
 
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "facebook.com/noltron000"
+#--> [[params.social]]
+#-->   medium = "facebook"
+#-->   icon = "facebook"
+#-->   link = "facebook.com/noltron000"
 
 [[params.social]]
   medium = "github"
   icon = "github"
   link = "github.com/noltron000"
 
-[[params.social]]
-  medium = "dribbble"
-  icon = "dribbble"
-  link = "#"
+#--> [[params.social]]
+#-->   medium = "dribbble"
+#-->   icon = "dribbble"
+#-->   link = ""
 
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "#contact"
+  link = "noltron000@gmail.com"
 
 # Portfolio column one
 
@@ -58,13 +58,13 @@ relativeURLs = true
   title = "Snowboarding"
   alt = "Snow Lift"
   source = "img/winter.jpg"
-  url = "#"
+  url = "https://www.pknpk.com/"
 
 [[params.portfolio2]]
   title = "Tabletop Games"
   alt = "D&D"
   source = "img/roleplay.jpg"
-  url = "#"
+  url = "http://dnd.wizards.com/dungeons-and-dragons"
 
 # Portfolio column three
 
@@ -78,10 +78,10 @@ relativeURLs = true
   title = "Computer Hardware"
   alt = "Graphics Cards"
   source = "img/hardware.jpg"
-  url = "#"
+  url = "https://pcpartpicker.com/guide/"
 
 [[params.portfolio3]]
   title = "Cats"
   alt = "Meow"
   source = "img/cat.jpg"
-  url = "#"
+  url = "https://imgur.com/r/cats"
